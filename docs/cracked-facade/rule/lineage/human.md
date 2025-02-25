@@ -36,5 +36,5 @@ Senses:
 Traits:
 
 - Versatile Skill: After each long rest, choose one skill. Gain proficiency with that skill until the end of your next long rest.
-- Versatile Resilience: After each long rest, choose one ability score. You are proficient with saving throws made with that ability score until the end of your next long rest.
+- Versatile Resilience: After each long rest, choose one ability score. You are proficient with saving throws with that ability until the end of your next long rest.
 - Versatile Talents: After each long rest, choose one feat that you qualify for. You have the abilities of that feat until the end of your next long rest.
