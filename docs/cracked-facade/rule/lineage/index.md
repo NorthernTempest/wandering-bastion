@@ -15,7 +15,7 @@ Although none are listed here, anthropomorphic animal-related lineages like Aara
 | ***Lineage***                    | ***Size***      | ***Ability Scores***               | ***Speeds***                                   | ***Senses***                          |
 | -------------------------------- | --------------- | ---------------------------------- | ---------------------------------------------- | ------------------------------------- |
 | [Aasimar](aasimar.md)            | Small or Medium | +1 to one of Str, Wis, or Cha      | Depends                                        | 60 ft. Dark.                          |
-| [Axiomat](axiomat.md)            | *(partial)*     | *(partial)*                        | *(partial)*                                    | *(partial)*                           |
+| [Axiomat](axiomat.md)            | Small or Medium | +1 to one of Con, Int, Wis, or Cha | *(partial)*                                    | *(partial)*                           |
 | [Dragonborn](dragonborn.md)      | Medium          | +1 to one of Str, Con, or Cha      | 30 ft.                                         | 60 ft. Dark.                          |
 | [Dwarf](dwarf.md)                | Medium          | +1 to one of Str, Con, or Wis      | 25 ft., ignore carry weight, burrow spd.       | 60 ft. Dark.                          |
 | [Elf](elf.md)                    | Medium          | +1 to one of Dex, Int, Wis, or Cha | 30 ft.                                         | 60 ft. Dark., Adv. for sight          |
@@ -29,7 +29,8 @@ Although none are listed here, anthropomorphic animal-related lineages like Aara
 | [Half-Orc](half-orc.md)          | Medium          | +1 to one of Str or Con            | 30 ft.                                         | 60 ft. Dark.                          |
 | [Halfling](halfling.md)          | Small           | +1 to one of Str, Dex, Con, or Cha | 25 ft.                                         | Normal, Adv. for smell                |
 | [Human](human.md)                | Medium          | Any                                | 30 ft.                                         | Normal                                |
-| [Kobold](kobold.md)              | Small           | +1 to one of Dex, Int, Wis, Cha    | 25 ft.                                         | 60 ft. Dark.                          |
+| [Kobold](kobold.md)              | Small           | +1 to one of Dex, Int, Wis, Cha    | 25 ft.                                         | 60 ft. Dark                           |
 | [Pill Bug](pill-bug.md)          | Medium          | +1 to one of Str or Con            | 25 ft.                                         | 60 ft. Dark                           |
 | [Bugbear](bugbear.md)            | Medium          | +1 to one of Str, Dex, or Con      | 30 ft.                                         | 60 ft. Dark                           |
-| [Tiefling](tiefling.md)          | Small or Medium | +1 to one of Str, Dex, Int, or Cha | Depends                                        | 60 ft. Dark.                          |
+| [Tiefling](tiefling.md)          | Small or Medium | +1 to one of Str, Dex, Int, or Cha | Depends                                        | 60 ft. Dark                           |
+| [Warforged](warforged.md)        | Small or Medium | +1 to one of Str, Dex, Con, or Int | 30 ft.                                         | 60 ft. Dark                           |
