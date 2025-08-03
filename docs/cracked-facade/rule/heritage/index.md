@@ -17,7 +17,7 @@ Below are a selection of only some of the Heritages on the Wandering Bastion. So
 | **[Abyss](abyss.md)**         | +1 to one of Str or Cha      | Common, Abyssal, another     | Deception or Religion         | Disguise Kit or Musical Instrument      |
 | **[Academia](academia.md)**   | +1 to one of Int or Wis      | Common, Draconic, another    | Arcana or History             | Artisan's Tools or Forgery Kit          |
 | **[Astral](astral.md)**       | +1 to one of Int or Wis      | Common, Iconic, another      | History or Nature             | Vehicles or Herbalism Kits              |
-| [Axiom](axiom.md)             | +1 to one of Int or Wis      | Common, Iconic, another      | History or Religion           | Tinker's Tools or a Musical Instrument  |
+| **[Axiom](axiom.md)**         | +1 to one of Int or Wis      | Common, Iconic, another      | History or Religion           | Tinker's Tools or a Musical Instrument  |
 | **[Coastal](coast.md)**       | +1 to one of Con or Wis      | Common, Ancient, another     | Athletics or Survival         | Artisan's Tools or Vehicles (Water)     |
 | **[Crime](crime.md)**         | +1 to one of Dex or Int      | Common, Dead Speech, another | Stealth or Sleight of Hand    | Thieves' Tools or Forgery Kit           |
 | **[Deep](deep.md)**           | +1 to one of Dex or Cha      | Common, Undercommon, another | Stealth or Survival           | Poisoner's Kit or Navigator's Tools     |
