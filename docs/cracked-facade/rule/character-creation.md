@@ -57,6 +57,10 @@ In addition to the proficiencies you receive from your class and background, you
 | 20 - 21                | Proficiency with two additional languages, two additional tools, and one additional skill  |
 | > 21                   | Proficiency with two additional languages, two additional tools, and two additional skills |
 
+### Hit Points
+
+Whenever you level, either take the average hit points for your class' hit die rounded down (eg. d8 would get 4 hp, d10 would get 5, etc.), or roll the die.
+
 ### Feats
 
 Player characters get one feat at level 1 if their background doesn't already grant them a feat (the same feat described under the [Background](#background) heading), and a feat at every fourth character level in addition to the ability score increases indicated in your classes. You cannot exchange ability score increases for feats.
