@@ -4,4 +4,4 @@ tags:
   - overview
 ---
 
-- [5 Errant Gates](./5-errant-gates.md)
+- [Six Errant Gates](6-errant-gates.md)
